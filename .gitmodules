@@ -1,0 +1,3 @@
+[submodule "ecg2mem"]
+	path = ecg2mem
+	url = https://github.com/JiamingJiao/ecg2mem.git
